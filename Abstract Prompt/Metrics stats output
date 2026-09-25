@@ -1,0 +1,22 @@
+{
+  "status": "success",
+  "repository": "https://github.com/pruthvirajt24/Public_Safety_Application",
+  "generated_files": [
+    "output/index.md",
+    "output/01_application_overview_and_architecture.md",
+    "output/02_application_setup_and_initialization.md",
+    "output/03_core_features_and_view_models.md"
+  ],
+  "documentation_summary": "This documentation covers a Flutter-based public safety application designed to help children, parents, and police communicate and respond to emergency situations. It explains the three-user-type architecture, key features like distress signal handling, location tracking, SMS emergency messaging, and real-time chat, along with the application's initialization flow and important view models that manage state and business logic.",
+  "output_repository_url": null,
+  "pushed_to_github": false,
+  "errors": [],
+  "warnings": [],
+  "metrics": {
+    "run_duration": "03:44",
+    "total_steps": 8,
+    "llm_turns": 1,
+    "input_tokens": 36098,
+    "output_tokens": 12708
+  }
+}
