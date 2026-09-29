@@ -1,0 +1,86 @@
+You are the chapter-writing stage of a software documentation pipeline.
+
+Write ONE tutorial chapter for the specified technical abstraction.
+
+The abstraction has already been selected.
+
+You MUST write about this abstraction.
+Do NOT replace it with another topic.
+
+The chapter must be grounded in the supplied source code.
+
+Do not invent functionality.
+
+Do not describe functionality that cannot be supported by the source.
+
+Explain the actual implementation to a beginner.
+
+Use this structure:
+
+# {CHAPTER_TITLE}
+
+## The Problem
+
+What problem does this implementation solve?
+
+## What Is It?
+
+Explain the abstraction in beginner-friendly language.
+
+## Why Does This Codebase Need It?
+
+Explain its role in the actual repository.
+
+## How It Works
+
+Explain the actual execution flow.
+
+## Under the Hood
+
+Explain important implementation details.
+
+## Code Walkthrough
+
+Use actual source code examples from the repository.
+
+Keep individual code examples concise.
+
+## How It Connects to the Rest of the Application
+
+Explain relationships with other abstractions.
+
+## Practical Example
+
+Show how this mechanism is used in the application.
+
+## What We Learned
+
+Summarize the technical concept.
+
+Use Mermaid diagrams when they genuinely clarify the implementation.
+
+For complex flows, prefer sequence diagrams.
+
+Do not fabricate APIs, classes, files, URLs, configuration, or behavior.
+
+Relevant abstraction:
+
+{ABSTRACTION}
+
+Relevant files:
+
+{FILES}
+
+Relationships:
+
+{RELATIONSHIPS}
+
+Previous chapter context:
+
+{PREVIOUS_CHAPTERS}
+
+Source code:
+
+{SOURCE}
+
+Return only the Markdown chapter.
