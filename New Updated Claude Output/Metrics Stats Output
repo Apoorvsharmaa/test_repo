@@ -1,0 +1,61 @@
+{
+  "status": "success",
+  "repository": "https://github.com/pruthvirajt24/Public_Safety_Application",
+  "project_name": "Public_Safety_Application",
+  "output_dir": "C:\\Users\\apoorv.sharma\\Documents\\Project Test\\github-doc-agent\\output\\Public_Safety_Application",
+  "generated_files": [
+    "index.md",
+    "01_application_entry_point_and_initialization.md",
+    "02_platform_native_containers.md",
+    "03_plugin_registration_system.md"
+  ],
+  "num_files_crawled": 28,
+  "files_used": [
+    ".Aava-codebase-tutorial/01_application_entry_point_and_initialization_.md",
+    ".Aava-codebase-tutorial/02_flutter_window_lifecycle_management_.md",
+    ".Aava-codebase-tutorial/03_windows_message_handling_.md",
+    ".Aava-codebase-tutorial/index.md",
+    "README.md",
+    "analysis_options.yaml",
+    "claude/01_platform_specific_application_containers_.md",
+    "claude/02_platform_resource_management_.md",
+    "claude/03_plugin_registration_system_.md",
+    "claude/index.md",
+    "ios/Runner/Assets.xcassets/LaunchImage.imageset/README.md",
+    "ios/Runner/Runner-Bridging-Header.h",
+    "linux/flutter/generated_plugin_registrant.cc",
+    "linux/flutter/generated_plugin_registrant.h",
+    "linux/main.cc",
+    "linux/my_application.cc",
+    "linux/my_application.h",
+    "pubspec.yaml",
+    "windows/flutter/generated_plugin_registrant.cc",
+    "windows/flutter/generated_plugin_registrant.h",
+    "windows/runner/flutter_window.cpp",
+    "windows/runner/flutter_window.h",
+    "windows/runner/main.cpp",
+    "windows/runner/resource.h",
+    "windows/runner/utils.cpp",
+    "windows/runner/utils.h",
+    "windows/runner/win32_window.cpp",
+    "windows/runner/win32_window.h"
+  ],
+  "abstractions": [
+    "Application Entry Point and Initialization",
+    "Platform Native Containers",
+    "Plugin Registration System"
+  ],
+  "documentation_summary": "The **Public Safety Application** is a *cross-platform Flutter app* designed to help emergency responders \nand coordinators manage safety incidents. The app runs on **Windows, Linux, and iOS** by wrapping the \nFlutter code in *platform-specific containers* that translate between Flutter's cross-platform language \nand each operating system's native requirements. It uses a **Plugin Registration System** to access \n*native device features* like file selection, web browsers, GPS, and cameras—allowing responders to \nupload incident reports, access emergency protocols, and coordinate responses. Each platform has its \nown **entry point and initialization sequence** that sets up the environment, creates the main window, \nand starts the application's message loop to keep it responsive to user interactions.",
+  "pushed_to_github": false,
+  "push": null,
+  "github_repository_url": null,
+  "errors": [],
+  "warnings": [],
+  "metrics": {
+    "run_duration": "07:39",
+    "llm_turns": 6,
+    "cache_hits": 0,
+    "input_tokens": 88629,
+    "output_tokens": 21066
+  }
+}
