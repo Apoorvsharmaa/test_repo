@@ -1,0 +1,19 @@
+{
+  "repo_url": "https://github.com/pruthvirajt24/Public_Safety_Application",
+  "github_token": "",
+  "max_file_size": 100000,
+  "max_abstraction_num": 3,
+  "language": "english",
+  "use_cache": false,
+  "model": "claude-sonnet-4-5-20250929",
+  "include_patterns": null,
+  "exclude_patterns": null,
+  "output_dir": "output",
+  "clear_before_write": true,
+  "push_to_github": false,
+  "output_base_url": "https://api.github.com",
+  "output_repo_owner": "pruthvirajt24",
+  "output_repo_name": "Public_Safety_Application",
+  "output_repo_dir": "testttttt",
+  "output_github_token": ""
+}
