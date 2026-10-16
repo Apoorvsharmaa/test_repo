@@ -1,0 +1,28 @@
+"abstractions": [
+    "Flutter Application Configuration",
+    "Plugin Registration System",
+    "Platform-Specific Native Runners"
+  ],
+  "documentation_summary": "This is a **Women's Safety Application** built with Flutter that provides emergency features for personal security. \nThe app uses *Firebase* for cloud services (authentication, database, storage, messaging), **GPS tracking** to share \nreal-time location, ability to send *emergency SMS messages*, **contact management** for emergency contacts, \n*camera integration* for capturing evidence, and **shake detection** to trigger alerts. It's designed to run on \nmultiple platforms (Windows, Linux, iOS, Android) by leveraging Flutter's cross-platform framework while connecting \nto native device features like location sensors, SMS, camera, and notifications through a plugin system.",
+  "pushed_to_github": false,
+  "push": null,
+  "github_repository_url": null,
+  "errors": [],
+  "warnings": [],
+  "metrics": {
+    "Run_duration": "06:51",
+    "Llm_turns": 6,
+    "Cache_hits": 0,
+    "Input_tokens": 44384,
+    "Output_tokens": 19953
+  }
+}
+{
+  "metrics": {
+    "Run_duration": "06:51",
+    "Llm_turns": 6,
+    "Cache_hits": 0,
+    "Input_tokens": 44384,
+    "Output_tokens": 19953
+  }
+}
