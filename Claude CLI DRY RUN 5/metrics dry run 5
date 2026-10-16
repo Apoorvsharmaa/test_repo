@@ -1,0 +1,31 @@
+"abstractions": [
+    "Flutter Cross-Platform Framework",
+    "Firebase Backend Services",
+    "Plugin Registration System"
+  ],
+  "documentation_summary": "SafeGuard is a **mobile emergency app** that helps people quickly send *distress signals* \nwith real-time GPS location to nearby police officers. Built with **Flutter** (a framework \nthat lets developers write code once and run it on *multiple platforms* like Android, iOS, \nWindows, and Linux), the app uses **Firebase** as its *cloud backend* to securely store \nemergency alerts and user data. Behind the scenes, a **Plugin Registration System** acts as \na *bridge* connecting Flutter's Dart code to native device features (like GPS and camera) \nand cloud services (like Firebase).",
+  "pushed_to_github": false,
+  "push": null,
+  "github_repository_url": null,
+  "errors": [],
+  "warnings": [],
+  "metrics": {
+    "Run_duration": "06:20",
+    "Llm_turns": 6,
+    "Cache_hits": 0,
+    "Input_tokens": 37190,
+    "Output_tokens": 17654
+  }
+}
+{
+  "metrics": {
+    "Run_duration": "06:20",
+    "Llm_turns": 6,
+    "Cache_hits": 0,
+    "Input_tokens": 37190,
+    "Output_tokens": 17654
+  }
+}
+
+
+
