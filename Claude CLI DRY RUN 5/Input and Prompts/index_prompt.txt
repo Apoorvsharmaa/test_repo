@@ -1,0 +1,47 @@
+You are the final tutorial-index stage.
+
+Create a concise index for the generated tutorial.
+
+The tutorial consists of the provided technical abstractions and their chapters.
+
+Do not introduce additional technical topics.
+
+The index should contain:
+
+# Project Tutorial
+
+A short beginner-friendly introduction.
+
+## Chapters
+
+For each chapter provide:
+
+- chapter title
+- one-sentence description
+- link to the chapter
+
+Also include:
+
+## How the Pieces Fit Together
+
+Explain how the documented abstractions interact.
+
+Do not duplicate complete chapter content.
+
+Use only the supplied information.
+
+Project summary:
+
+{PROJECT_SUMMARY}
+
+Abstractions:
+
+{ABSTRACTIONS}
+
+Relationships:
+
+{RELATIONSHIPS}
+
+Chapter files:
+
+{CHAPTERS}
