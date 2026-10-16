@@ -1,0 +1,31 @@
+{
+  "repo_url": "https://github.com/pruthvirajt24/Public_Safety_Application",
+  "github_token": "",
+  "max_file_size": 100000,
+  "max_abstraction_num": 3,
+  "language": "english",
+  "use_cache": false,
+  "model": "claude-sonnet-4-5-20250929",
+  
+"include_patterns": [
+  "*.py", "*.js", "*.jsx", "*.ts", "*.tsx", "*.go", "*.java",
+  "*.pyi", "*.pyx", "*.c", "*.cc", "*.cpp", "*.h",
+  "*.md", "*.rst", "*Dockerfile", "*Makefile", "*.yaml", "*.yml"],
+
+"exclude_patterns": [
+  "assets/*", "data/*", "images/*", "public/*", "static/*", "temp/*",
+  "*docs/*", "*venv/*", "*.venv/*", "*test*", "*tests/*", "*examples/*",
+  "v1/*", "*dist/*", "*build/*", "*experimental/*", "*deprecated/*",
+  "*misc/*", "*legacy/*", ".git/*", ".github/*", ".next/*", ".vscode/*",
+  "*obj/*", "*bin/*", "*node_modules/*", "*.log",
+  ".Aava-codebase-tutorial/*", "claude/*", "testttttt/*", "output/*"
+],
+  "output_dir": "output",
+  "clear_before_write": true,
+  "push_to_github": false,
+  "output_base_url": "https://api.github.com",
+  "output_repo_owner": "pruthvirajt24",
+  "output_repo_name": "Public_Safety_Application",
+  "output_repo_dir": "testttttt",
+  "output_github_token": ""
+}
