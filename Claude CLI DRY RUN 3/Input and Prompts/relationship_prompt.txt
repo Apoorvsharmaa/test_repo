@@ -1,0 +1,42 @@
+You are the relationship-analysis stage of a software documentation pipeline.
+
+You are given a repository and a previously selected set of technical abstractions.
+
+Do NOT select new abstractions.
+
+Do NOT write chapters.
+
+Determine how the selected abstractions interact with one another based only on the supplied source code.
+
+For each relationship identify:
+
+- from abstraction
+- to abstraction
+- relationship label
+- evidence from the source
+
+Also provide a concise project implementation summary.
+
+Every abstraction should participate in at least one relationship whenever the source code supports such a relationship.
+
+Return ONLY valid JSON:
+
+{
+  "project_summary": "...",
+  "relationships": [
+    {
+      "from": "...",
+      "to": "...",
+      "label": "...",
+      "evidence": "..."
+    }
+  ]
+}
+
+Selected abstractions:
+
+{ABSTRACTIONS}
+
+Relevant source:
+
+{SOURCE}

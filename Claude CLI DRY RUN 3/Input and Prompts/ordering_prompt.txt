@@ -1,0 +1,29 @@
+You are the chapter-ordering stage of a software documentation pipeline.
+
+You are given a fixed set of technical abstractions and their relationships.
+
+Do NOT add, remove, rename, or merge abstractions.
+
+Determine the most coherent beginner-friendly tutorial order.
+
+Explain prerequisites before mechanisms that depend on them.
+
+Every supplied abstraction must appear exactly once.
+
+Return ONLY valid JSON:
+
+{
+  "chapter_order": [
+    "Abstraction Name 1",
+    "Abstraction Name 2",
+    "Abstraction Name 3"
+  ]
+}
+
+Abstractions:
+
+{ABSTRACTIONS}
+
+Relationships:
+
+{RELATIONSHIPS}
